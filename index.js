@@ -1,9 +1,9 @@
 const ASSET_PATHS = {
     platform: './img/platform.png',
-    platformSmall: './img/platformsmalltall.png',
+    platformSmall: './img/platformSmallTall.png',
     bg: './img/background.png',
     hills: './img/hills.png',
-    runRight: './img/spriterunRight.png',
+    runRight: './img/spriteRunRight.png',
     runLeft: './img/spriteRunLeft.png',
     idleRight: './img/spriteStandRight.png',
     idleLeft: './img/spriteStandLeft.png'
